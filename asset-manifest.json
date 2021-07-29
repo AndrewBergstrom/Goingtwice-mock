@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Goingtwice-mock/static/css/main.ad83ce2f.chunk.css",
+    "main.js": "/Goingtwice-mock/static/js/main.65cbd66e.chunk.js",
+    "main.js.map": "/Goingtwice-mock/static/js/main.65cbd66e.chunk.js.map",
+    "runtime-main.js": "/Goingtwice-mock/static/js/runtime-main.9511e981.js",
+    "runtime-main.js.map": "/Goingtwice-mock/static/js/runtime-main.9511e981.js.map",
+    "static/js/2.ed59b4bf.chunk.js": "/Goingtwice-mock/static/js/2.ed59b4bf.chunk.js",
+    "static/js/2.ed59b4bf.chunk.js.map": "/Goingtwice-mock/static/js/2.ed59b4bf.chunk.js.map",
+    "index.html": "/Goingtwice-mock/index.html",
+    "static/css/main.ad83ce2f.chunk.css.map": "/Goingtwice-mock/static/css/main.ad83ce2f.chunk.css.map",
+    "static/js/2.ed59b4bf.chunk.js.LICENSE.txt": "/Goingtwice-mock/static/js/2.ed59b4bf.chunk.js.LICENSE.txt",
+    "static/media/apple-touch-icon.07582cdb.png": "/Goingtwice-mock/static/media/apple-touch-icon.07582cdb.png",
+    "static/media/hero.217cee1d.jpeg": "/Goingtwice-mock/static/media/hero.217cee1d.jpeg",
+    "static/media/landscape.de3974ac.jpeg": "/Goingtwice-mock/static/media/landscape.de3974ac.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9511e981.js",
+    "static/js/2.ed59b4bf.chunk.js",
+    "static/css/main.ad83ce2f.chunk.css",
+    "static/js/main.65cbd66e.chunk.js"
+  ]
+}
